@@ -9,6 +9,7 @@ Afet durumlarında sosyal medya verilerini analiz ederek ihtiyaç ve kaynakları
 - Selenium WebDriver & ChromeDriver
 - BERT ve RoBERTa dil modelleri
 - Geopy kütüphanesi
+- Web Scraping
 
 ## Temel Özellikler
 - XLM-RoBERTa ile dil tespiti
